@@ -65,7 +65,7 @@ First step:
 11. `MAX_POOL_SIZE` (bot buy only if pool size is < of amount)
 13. `TAKE_PROFIT=80` (in %)
 13. `STOP_LOSS=30` (in %)
-14. `BIRDEYE_APIKEY=` get here: https://birdeye.so/user/profile#security
+14. `BIRDEYE_APIKEY=` get here: https://docs.birdeye.so/docs/authentication-api-keys
 
 ![](https://github.com/SoaRTradingBot/solana-sniper-bot/blob/f77846d77701a23c130fbddbf6d24da43d587688/images/bot.png)
 
