@@ -51,7 +51,7 @@ First step:
 >[5] ```npm run ssb```
 
 
-## Configure .env file 📝
+## Configure .env file 📝 
 1. Configure the script by updating `.env.copy` file (**remove the ".copy" extension**).
 2. `MY_PRIVATE_KEY` (your wallet private key)
 3. `RPC_ENDPOINT` (https RPC endpoint) paid services are faster
